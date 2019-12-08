@@ -3,7 +3,7 @@ from ibm_watson import NaturalLanguageUnderstandingV1
 from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
 from ibm_watson.natural_language_understanding_v1 import Features, EntitiesOptions, KeywordsOptions, SentimentOptions
 
-authenticator = IAMAuthenticator('8O9EMgIsxfs9-tsACK_-FTZSQey4_69U2WdjirOgzjbT')
+authenticator = IAMAuthenticator('{api key}')
 natural_language_understanding = NaturalLanguageUnderstandingV1(
     version='2019-07-12',
     authenticator=authenticator)
