@@ -1,0 +1,550 @@
+[
+  {
+    "week": "2017-04-23",
+    "searches": 0
+  },
+  {
+    "week": "2017-04-30",
+    "searches": 0
+  },
+  {
+    "week": "2017-05-07",
+    "searches": 0
+  },
+  {
+    "week": "2017-05-14",
+    "searches": 0
+  },
+  {
+    "week": "2017-05-21",
+    "searches": 2
+  },
+  {
+    "week": "2017-05-28",
+    "searches": 3
+  },
+  {
+    "week": "2017-06-04",
+    "searches": 6
+  },
+  {
+    "week": "2017-06-11",
+    "searches": 11
+  },
+  {
+    "week": "2017-06-18",
+    "searches": 9
+  },
+  {
+    "week": "2017-06-25",
+    "searches": 5
+  },
+  {
+    "week": "2017-07-02",
+    "searches": 4
+  },
+  {
+    "week": "2017-07-09",
+    "searches": 8
+  },
+  {
+    "week": "2017-07-16",
+    "searches": 4
+  },
+  {
+    "week": "2017-07-23",
+    "searches": 5
+  },
+  {
+    "week": "2017-07-30",
+    "searches": 8
+  },
+  {
+    "week": "2017-08-06",
+    "searches": 11
+  },
+  {
+    "week": "2017-08-13",
+    "searches": 16
+  },
+  {
+    "week": "2017-08-20",
+    "searches": 27
+  },
+  {
+    "week": "2017-08-27",
+    "searches": 29
+  },
+  {
+    "week": "2017-09-03",
+    "searches": 17
+  },
+  {
+    "week": "2017-09-10",
+    "searches": 18
+  },
+  {
+    "week": "2017-09-17",
+    "searches": 14
+  },
+  {
+    "week": "2017-09-24",
+    "searches": 13
+  },
+  {
+    "week": "2017-10-01",
+    "searches": 9
+  },
+  {
+    "week": "2017-10-08",
+    "searches": 8
+  },
+  {
+    "week": "2017-10-15",
+    "searches": 7
+  },
+  {
+    "week": "2017-10-22",
+    "searches": 21
+  },
+  {
+    "week": "2017-10-29",
+    "searches": 14
+  },
+  {
+    "week": "2017-11-05",
+    "searches": 11
+  },
+  {
+    "week": "2017-11-12",
+    "searches": 14
+  },
+  {
+    "week": "2017-11-19",
+    "searches": 14
+  },
+  {
+    "week": "2017-11-26",
+    "searches": 14
+  },
+  {
+    "week": "2017-12-03",
+    "searches": 15
+  },
+  {
+    "week": "2017-12-10",
+    "searches": 47
+  },
+  {
+    "week": "2017-12-17",
+    "searches": 64
+  },
+  {
+    "week": "2017-12-24",
+    "searches": 43
+  },
+  {
+    "week": "2017-12-31",
+    "searches": 36
+  },
+  {
+    "week": "2018-01-07",
+    "searches": 35
+  },
+  {
+    "week": "2018-01-14",
+    "searches": 36
+  },
+  {
+    "week": "2018-01-21",
+    "searches": 39
+  },
+  {
+    "week": "2018-01-28",
+    "searches": 42
+  },
+  {
+    "week": "2018-02-04",
+    "searches": 33
+  },
+  {
+    "week": "2018-02-11",
+    "searches": 29
+  },
+  {
+    "week": "2018-02-18",
+    "searches": 36
+  },
+  {
+    "week": "2018-02-25",
+    "searches": 33
+  },
+  {
+    "week": "2018-03-04",
+    "searches": 28
+  },
+  {
+    "week": "2018-03-11",
+    "searches": 27
+  },
+  {
+    "week": "2018-03-18",
+    "searches": 27
+  },
+  {
+    "week": "2018-03-25",
+    "searches": 30
+  },
+  {
+    "week": "2018-04-01",
+    "searches": 45
+  },
+  {
+    "week": "2018-04-08",
+    "searches": 28
+  },
+  {
+    "week": "2018-04-15",
+    "searches": 38
+  },
+  {
+    "week": "2018-04-22",
+    "searches": 35
+  },
+  {
+    "week": "2018-04-29",
+    "searches": 27
+  },
+  {
+    "week": "2018-05-06",
+    "searches": 27
+  },
+  {
+    "week": "2018-05-13",
+    "searches": 27
+  },
+  {
+    "week": "2018-05-20",
+    "searches": 20
+  },
+  {
+    "week": "2018-05-27",
+    "searches": 100
+  },
+  {
+    "week": "2018-06-03",
+    "searches": 22
+  },
+  {
+    "week": "2018-06-10",
+    "searches": 16
+  },
+  {
+    "week": "2018-06-17",
+    "searches": 23
+  },
+  {
+    "week": "2018-06-24",
+    "searches": 16
+  },
+  {
+    "week": "2018-07-01",
+    "searches": 23
+  },
+  {
+    "week": "2018-07-08",
+    "searches": 25
+  },
+  {
+    "week": "2018-07-15",
+    "searches": 24
+  },
+  {
+    "week": "2018-07-22",
+    "searches": 28
+  },
+  {
+    "week": "2018-07-29",
+    "searches": 26
+  },
+  {
+    "week": "2018-08-05",
+    "searches": 16
+  },
+  {
+    "week": "2018-08-12",
+    "searches": 15
+  },
+  {
+    "week": "2018-08-19",
+    "searches": 14
+  },
+  {
+    "week": "2018-08-26",
+    "searches": 21
+  },
+  {
+    "week": "2018-09-02",
+    "searches": 25
+  },
+  {
+    "week": "2018-09-09",
+    "searches": 35
+  },
+  {
+    "week": "2018-09-16",
+    "searches": 71
+  },
+  {
+    "week": "2018-09-23",
+    "searches": 69
+  },
+  {
+    "week": "2018-09-30",
+    "searches": 41
+  },
+  {
+    "week": "2018-10-07",
+    "searches": 36
+  },
+  {
+    "week": "2018-10-14",
+    "searches": 32
+  },
+  {
+    "week": "2018-10-21",
+    "searches": 32
+  },
+  {
+    "week": "2018-10-28",
+    "searches": 28
+  },
+  {
+    "week": "2018-11-04",
+    "searches": 21
+  },
+  {
+    "week": "2018-11-11",
+    "searches": 22
+  },
+  {
+    "week": "2018-11-18",
+    "searches": 20
+  },
+  {
+    "week": "2018-11-25",
+    "searches": 23
+  },
+  {
+    "week": "2018-12-02",
+    "searches": 18
+  },
+  {
+    "week": "2018-12-09",
+    "searches": 16
+  },
+  {
+    "week": "2018-12-16",
+    "searches": 17
+  },
+  {
+    "week": "2018-12-23",
+    "searches": 15
+  },
+  {
+    "week": "2018-12-30",
+    "searches": 13
+  },
+  {
+    "week": "2019-01-06",
+    "searches": 13
+  },
+  {
+    "week": "2019-01-13",
+    "searches": 10
+  },
+  {
+    "week": "2019-01-20",
+    "searches": 12
+  },
+  {
+    "week": "2019-01-27",
+    "searches": 11
+  },
+  {
+    "week": "2019-02-03",
+    "searches": 10
+  },
+  {
+    "week": "2019-02-10",
+    "searches": 10
+  },
+  {
+    "week": "2019-02-17",
+    "searches": 14
+  },
+  {
+    "week": "2019-02-24",
+    "searches": 11
+  },
+  {
+    "week": "2019-03-03",
+    "searches": 10
+  },
+  {
+    "week": "2019-03-10",
+    "searches": 10
+  },
+  {
+    "week": "2019-03-17",
+    "searches": 10
+  },
+  {
+    "week": "2019-03-24",
+    "searches": 9
+  },
+  {
+    "week": "2019-03-31",
+    "searches": 9
+  },
+  {
+    "week": "2019-04-07",
+    "searches": 11
+  },
+  {
+    "week": "2019-04-14",
+    "searches": 11
+  },
+  {
+    "week": "2019-04-21",
+    "searches": 15
+  },
+  {
+    "week": "2019-04-28",
+    "searches": 12
+  },
+  {
+    "week": "2019-05-05",
+    "searches": 8
+  },
+  {
+    "week": "2019-05-12",
+    "searches": 11
+  },
+  {
+    "week": "2019-05-19",
+    "searches": 8
+  },
+  {
+    "week": "2019-05-26",
+    "searches": 10
+  },
+  {
+    "week": "2019-06-02",
+    "searches": 7
+  },
+  {
+    "week": "2019-06-09",
+    "searches": 8
+  },
+  {
+    "week": "2019-06-16",
+    "searches": 10
+  },
+  {
+    "week": "2019-06-23",
+    "searches": 9
+  },
+  {
+    "week": "2019-06-30",
+    "searches": 8
+  },
+  {
+    "week": "2019-07-07",
+    "searches": 8
+  },
+  {
+    "week": "2019-07-14",
+    "searches": 10
+  },
+  {
+    "week": "2019-07-21",
+    "searches": 10
+  },
+  {
+    "week": "2019-07-28",
+    "searches": 15
+  },
+  {
+    "week": "2019-08-04",
+    "searches": 18
+  },
+  {
+    "week": "2019-08-11",
+    "searches": 18
+  },
+  {
+    "week": "2019-08-18",
+    "searches": 48
+  },
+  {
+    "week": "2019-08-25",
+    "searches": 61
+  },
+  {
+    "week": "2019-09-01",
+    "searches": 30
+  },
+  {
+    "week": "2019-09-08",
+    "searches": 28
+  },
+  {
+    "week": "2019-09-15",
+    "searches": 21
+  },
+  {
+    "week": "2019-09-22",
+    "searches": 17
+  },
+  {
+    "week": "2019-09-29",
+    "searches": 18
+  },
+  {
+    "week": "2019-10-06",
+    "searches": 15
+  },
+  {
+    "week": "2019-10-13",
+    "searches": 17
+  },
+  {
+    "week": "2019-10-20",
+    "searches": 18
+  },
+  {
+    "week": "2019-10-27",
+    "searches": 21
+  },
+  {
+    "week": "2019-11-03",
+    "searches": 20
+  },
+  {
+    "week": "2019-11-10",
+    "searches": 23
+  },
+  {
+    "week": "2019-11-17",
+    "searches": 23
+  },
+  {
+    "week": "2019-11-24",
+    "searches": 24
+  },
+  {
+    "week": "2019-12-01",
+    "searches": 20
+  }
+]
