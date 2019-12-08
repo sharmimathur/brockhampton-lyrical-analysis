@@ -1,0 +1,122 @@
+body {
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+section {
+    height: 100vh;
+    border: 0px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+
+    background-size: cover; /* Add this line */
+    background-position: center center; /* Add this line */
+    background-repeat: no-repeat; /* Add this line */
+    background-attachment: fixed; /* Add this line */
+}
+
+/* Frame 1 */
+
+frame1 {
+    position: absolute;
+    left: 20%;
+    right: 20%;
+    top: 5%;
+    bottom: 20%;
+    border: 0px solid black;
+
+}
+frame2 {
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 70%;
+
+}
+
+frame3 {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 40%;
+    bottom: 0%;
+    
+}
+
+section frame4 {
+    /* Frame 4 */
+
+
+    position: relative;
+    left: 31.39%;
+    right: 25.62%;
+    top: 72.66%;
+    bottom: 19.34%;
+
+}
+section frame5 {
+    position: relative;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 81.78%;
+
+}
+section frame6 {
+    position: relative;
+    left: 0%;
+    right: 0%;
+    top: 60%;
+    bottom: 20.78%;
+    border: 1px, black;
+}
+
+#title {
+    height: 110vh;
+    background-attachment: scroll;
+}
+
+
+#linetime {
+    height: 115vh;
+    background-attachment: scroll;
+    background-image: url('assets/desktop2.png');
+}
+
+#pie{
+    height: 120vh;
+    background-attachment: scroll;
+}
+#senti {
+    height: 80vh;
+    background-attachment: scroll;
+}
+#dogs{
+    background-attachment: scroll;
+    background-image: url('assets/dogs.png');
+}
+/* img {max-width:80%; max-height: 120%} */
+
+/* 
+
+section titlebox {
+    margin: auto;
+    align-self: center;
+}
+
+section photo {
+
+    position: relative;
+    width: 786px;
+    height: 524.58px;
+    left: 327px;
+    top: 302px;
+
+} */
+
